@@ -2,7 +2,7 @@
 
 ## 📚 Project Overview
 
-This project leverages **machine learning** techniques to classify sonar signals as either **rock** or **mine**. The dataset used for this project is sourced from the **UCI Machine Learning Repository** and contains signal data collected by bouncing sonar waves off rocks or mines. The objective is to build and evaluate a predictive model that can distinguish between the two categories effectively.
+This project leverages **machine learning** techniques to classify sonar signals as either **rock** or **mine**. The dataset used for this project is sourced from the **UCI Machine Learning Repository** and contains signal data collected by bouncing sonar waves off rocks or mines. The objective is to build and evaluate a predictive model that can distinguish between the two categories efficiently.
 
 ---
 
